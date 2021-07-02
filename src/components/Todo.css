@@ -1,0 +1,38 @@
+.todo_input{
+    padding: 6px 16px;
+    min-width: 200px;
+    max-width: 100vw;
+    font-size: 15px;
+    margin-left: 500px;
+    margin-top: 40px;
+}
+
+.text_todo{
+    font-size: 15px;
+    margin-left: 520px;
+    margin-top: 20px;
+}
+
+.todo_search {
+    
+    margin-top: 40px;
+    margin-left: 550px;
+}
+
+.data_todo{
+    margin-left: 520px;
+    margin-top: 20px;
+
+}
+
+.icon_todo{
+    margin-left: 743px;
+    
+    margin-top: -35px;
+
+}
+
+.button_add{
+    margin-left: 750px;
+    margin-top: -38px;
+}
